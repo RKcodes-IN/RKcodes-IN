@@ -16,6 +16,6 @@ I'm currently working on Node js<br>Full-Stack Developer<br>Tech Lead<br>5+ Year
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RKcodes-IN&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rkcodes&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
